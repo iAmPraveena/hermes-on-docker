@@ -192,14 +192,8 @@ The resulting solution is suitable for experimentation, automation, AI-assisted 
 
 ```text
 .
-├── docker-compose.yml
-├── config.yaml.example
-├── .env.example
 ├── scripts/
-│   ├── install.sh
-│   ├── start.sh
-│   ├── stop.sh
-│   └── validate.sh
+│   ├── create-hermes-agent.sh
 ├── docs/
 │   └── architecture.png
 └── README.md
