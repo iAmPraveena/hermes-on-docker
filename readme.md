@@ -201,7 +201,7 @@ The resulting solution is suitable for experimentation, automation, AI-assisted 
 
 ---
 
-[![Hermes Ollama Architecture](docs/architecture.png)](docs/architecture.png)
+[![Hermes Ollama Architecture](Docs/architecture.png)](docs/architecture.png)
 
 ## Disclaimer
 
