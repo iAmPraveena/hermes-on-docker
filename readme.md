@@ -201,6 +201,8 @@ The resulting solution is suitable for experimentation, automation, AI-assisted 
 
 ---
 
+[![Hermes Ollama Architecture](docs/architecture.png)](docs/architecture.png)
+
 ## Disclaimer
 
 This project is an independent implementation, learning exercise, and deployment reference built using publicly available technologies.
